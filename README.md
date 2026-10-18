@@ -14,6 +14,7 @@ Every change here was made with free student Codex credits and reviewed by me be
 | --- | --- | --- | --- |
 | 2026-10-18 | [shadow-ai-dlp](https://github.com/Erik755/shadow-ai-dlp) | [Skip placeholder OpenAI, Anthropic and xAI keys](https://github.com/Erik755/shadow-ai-dlp/pull/2) | Open |
 | 2026-10-18 | [clotr-app/BilliBaSHing](https://github.com/clotr-app/BilliBaSHing) | 684 made-up examples for testing privacy and secret detectors | Published |
+| 2026-10-18 | [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) | [Document the minimum database password quality setting](https://github.com/keepassxreboot/keepassxc/pull/13802) | Open |
 
 ## Security reports
 
