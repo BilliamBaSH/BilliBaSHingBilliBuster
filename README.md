@@ -1,4 +1,7 @@
-# BilliBaSHingBilliBuster
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="badges/shelf-dark.svg">
+  <img alt="BilliBaSHing BilliBuster trophy shelf: badges for fixes I've sent back to other projects" src="badges/shelf-light.svg" width="812">
+</picture>
 
 I'm a veteran. I'm a student. I'm only able to do what I do because of the people. My contributions are my evolved way of trying to protect more than just my country.
 
